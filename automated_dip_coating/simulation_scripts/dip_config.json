@@ -1,0 +1,35 @@
+{
+  "name": "dip_config",
+  "safe_z": 150,
+
+  "slides_dry": {
+    "origin": { "x": 54.0, "y": 160.0, "z": 60.5 },
+    "rows": 10,
+    "cols": 2,
+    "pitch": { "x": 40.5, "y": 12.3 },
+    "cols_axis": "x",
+    "rows_axis": "y",
+    "x_dir": 1,
+    "y_dir": 1,
+    "hover_mm": 0.0
+  },
+
+  "slides_wet": {
+    "origin": { "x": 201.5, "y": 270.0, "z": 60.0 },
+    "rows": 10,
+    "cols": 2,
+    "pitch": { "x": 40.5, "y": 12.3 },
+    "cols_axis": "x",
+    "rows_axis": "y",
+    "x_dir": 1,
+    "y_dir": -1,
+    "hover_mm": 0.0
+  },
+
+  "bath": {
+    "x": 185.0,
+    "y": 105.0,
+    "z": 130.0,
+    "hover_mm": 20.0
+  }
+}
