@@ -6,8 +6,6 @@ This folder contains all **modified Jubilee CAD files**, including:
 - `.sldprt` (SolidWorks part) files  
 - Any derivative or redesigned components created as part of this project
 
-These files represent custom or updated versions of standard Jubilee components, such as redesigned plates, brackets, mechanical interfaces, structural reinforcements, or geometry modifications used for automation, dip-coating configurations, or platform upgrades.
-
 ---
 
 ## Original / Unmodified Jubilee CAD Files
