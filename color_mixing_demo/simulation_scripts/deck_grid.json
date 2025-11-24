@@ -1,0 +1,37 @@
+{
+  "name": "deck_grid",
+  "safe_z": 120,
+
+  "scint_vials": {
+    "origin": { "x": 102.0, "y": 31.5, "z": 105.0 },
+    "rows": 4,
+    "cols": 3,
+    "pitch": { "x": 28.0, "y": 28.0 },
+    "cols_axis": "x",
+    "rows_axis": "y",
+    "x_dir": -1,                                  
+    "y_dir": 1                                  
+  },
+
+  "plate96": {
+    "origin": { "x": 108.0, "y": 268.5, "z": 60.0 },   
+    "rows": 12,
+    "cols": 8,
+    "pitch": { "x": 9.0, "y": 9.0 },
+    "cols_axis": "y",
+    "rows_axis": "x",            
+    "x_dir": -1,
+    "y_dir": -1
+  },
+
+  "tiprack": {
+    "origin": { "x": 255.2, "y": 266.5, "z": 61.0 },   
+    "rows": 12,
+    "cols": 8,
+    "pitch": { "x": 9.0, "y": 9.0 },
+    "cols_axis": "y",
+    "rows_axis": "x",              
+    "x_dir": -1,
+    "y_dir": -1
+  }
+}
