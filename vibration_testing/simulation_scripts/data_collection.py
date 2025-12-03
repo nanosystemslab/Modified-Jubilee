@@ -299,7 +299,7 @@ def wait_for_sensors_to_settle(sensors, settling_time_sec=5, stability_threshold
     return False
 
 # Configuration
-SAMPLE_RATE_HZ = 500
+SAMPLE_RATE_HZ = 100
 LIVE_MODE = False  # Set to False for file logging, True for live display
 CALIBRATE_ON_START = True  # Set to True to calibrate before each session
 LOG_DURATION_SEC = 120  # How long to record in seconds (0 = infinite until Ctrl+C)
